@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  StockFunctions.cpp
+  Fight.cpp
+p:\cs225_hw\project 1\andrewparts\fight.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  AndrewParts.vcxproj -> P:\CS225_HW\Project 1\Debug\AndrewParts.exe
+  AndrewParts.vcxproj -> P:\CS225_HW\Project 1\Debug\AndrewParts.pdb (Partial PDB)
